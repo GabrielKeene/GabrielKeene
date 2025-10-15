@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm currently a MP2I student at St-Louis (Paris)</h1>
+<h1>Hi 👋, I'm currently a MPI student at St-Louis (Paris)</h1>
 <p> I publish some projects I make here </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
